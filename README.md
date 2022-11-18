@@ -1,6 +1,6 @@
 ### Hi
 
-- Leading global expert and lead software developer for Reaction Mechanism Generator for Heterogeneous Catalysis 
+- (Used to be the) leading global expert and lead software developer for Reaction Mechanism Generator for Heterogeneous Catalysis 
 
 
 <!--
