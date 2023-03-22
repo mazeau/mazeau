@@ -1,6 +1,6 @@
 ### Hi
 
-- I am doing still doing things. just not here anymore
+- I am doing still doing things, just not here anymore
 - (Used to be the) leading global expert and lead software developer for Reaction Mechanism Generator for Heterogeneous Catalysis 
 
 
