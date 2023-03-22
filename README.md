@@ -1,6 +1,6 @@
 ### Hi
 
-- I am doing things, they are just secret
+- I am doing still doing things
 - (Used to be the) leading global expert and lead software developer for Reaction Mechanism Generator for Heterogeneous Catalysis 
 
 
